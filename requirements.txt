@@ -1,0 +1,10 @@
+dateparser
+datetime
+requests.adapters
+json
+pandas
+numpy
+BeautifulSoup
+fuzzywuzzy
+elasticsearch
+TextBlob

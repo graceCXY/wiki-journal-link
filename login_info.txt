@@ -1,0 +1,8 @@
+{
+    "username": "",
+    "password": "",
+    "remember": "true",
+    "referer": "https://archive.org/advancedsearch.php",
+    "submit-to-login": "Log in",
+    "login": "true"
+}
