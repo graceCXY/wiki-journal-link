@@ -30,10 +30,10 @@ Getting all the dependencies from requirements.txt
 $ python wiki_journal_link/__main__.py scholar "{{Akademik dergi kaynağı|url=|başlık=The mind and brain of short-term memory|yazarlar=Jonides|sayı=|sayfalar=193-224|çalışma=Annual Review of Psychology|yıl=2008|cilt=59}}"
 "https://scholar.archive.org/work/smviomizcncc5cslifvbtuymfa"
 ```
-## SIM
-`SIM <Citation>`
+## Serials in Microfilms
+`sim <Citation>`
 ```bash
-$ python wiki_journal_link/__main__.py SIM "{{Akademik dergi kaynağı|başlık=The Mind and Brain of Short-Term Memory|yazarlar=Jonides|tarih=Ocak 2008|sayı=1|sayfalar=193-224|çalışma=Annual Review of Psychology|cilt=59}}"
+$ python wiki_journal_link/__main__.py sim "{{Akademik dergi kaynağı|başlık=The Mind and Brain of Short-Term Memory|yazarlar=Jonides|tarih=Ocak 2008|sayı=1|sayfalar=193-224|çalışma=Annual Review of Psychology|cilt=59}}"
 "https://archive.org/details/sim_annual-review-of-psychology_2008_59"
 ```
 

@@ -1,10 +1,10 @@
 dateparser
 datetime
-requests.adapters
-json
+requests
 pandas
 numpy
-BeautifulSoup
+bs4
 fuzzywuzzy
 elasticsearch
-TextBlob
+textblob
+click

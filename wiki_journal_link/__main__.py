@@ -21,10 +21,10 @@ def scholar(**kwargs):
 
 
 @main.command()
-@click.argument('SIM', required = False)
-def SIM(**kwargs):
+@click.argument('sim', required = False)
+def sim(**kwargs):
     """Generate link to a link in the SIM collection"""
-    result = process_citation_to_SIM(kwargs.get("SIM"))
+    result = process_citation_to_SIM(kwargs.get("sim"))
     click.echo(result)
 
 
