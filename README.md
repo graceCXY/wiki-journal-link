@@ -58,9 +58,8 @@ Because the program uses different endpoints to access elastic search and make n
 
 # How it works
 As a visual learner, I made a diagram to demonstrate the workflow of the program. 
-![alt text](https://github.com/graceCXY/wiki-journal-link/blob/master/wiki_journal_link/workflow_diagram.png)
 
-![Screenshot](https://github.com/graceCXY/wiki-journal-link/blob/master/wiki_journal_link/workflow_diagram.png)
+![ScreenShot](https://github.com/graceCXY/wiki-journal-link/blob/master/wiki_journal_link/workflow_diagram.png)
 
 
 Input: the pipeline takes in a citation from Wikipedia. 
